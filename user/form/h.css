@@ -1,0 +1,14 @@
+.bg-image {
+    background-image: url('http://localhost/heavyproject/user/form/car19.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .bgg-image {
+    background-image: url('http://localhost/heavyproject/user/form/3.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .bg-white {
+    opacity:0.6;
+}
+
